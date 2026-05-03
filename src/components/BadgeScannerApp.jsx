@@ -447,7 +447,7 @@ export default function BadgeScannerApp() {
       };
 
       // Send data to Google Apps Script web app
-      const response = await fetch('https://script.google.com/macros/s/AKfycbxxfyHPcGORug7AF-weQ7UDr-eKndDG-asyDPkrft9P7S5XO1_vjT_ffuPvl7q3L-Pj/exec', {
+      const response = await fetch('https://script.google.com/macros/s/AKfycbzCRblkB4pgNmNfEcFruWmg15BLg5S9MhpEF_mPA9-F6n-qvszftHTsEIIv3nqT03pP/exec', {
         method: 'POST',
         headers: {
           'Content-Type': 'text/plain', // Change content type
