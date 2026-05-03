@@ -26,10 +26,10 @@ export default function BadgeScannerApp() {
 
   // Liste des agents
   const agents = [
-    'Yacine Fekhar',
-    'Lamine Fekhar',
-    'Mohammed Oudjana',
-    'LAMINE Djehlane',
+    'Omar Fekhar',
+    'YACINE Fekhar',
+    'ALI BOUAROUA ',
+    'SOUFIAN Seddki',
     'Yacine Khelili banouh',
   
 
@@ -55,7 +55,7 @@ export default function BadgeScannerApp() {
 
   // Domaines d'activité
   const domains = [
-    'Enterprise Piscine',
+    'Enterprise Emballage',
     'Entreprise construction',
     'Grossiste',
     'Revendeur',
